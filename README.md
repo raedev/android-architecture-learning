@@ -1,2 +1,8 @@
-# android-architecture-learning
-Android 蓝图学习资料，记录成长。
+# 一起来学习 Android
+
+Android 学习资料，记录成长。
+
+每一个功能学习都在不同的分支里面，请切换到想要的分支查看。
+
+
+
